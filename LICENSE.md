@@ -1,4 +1,4 @@
-WavePlayer.java : by Macteki,MIT license, http://java.macteki.com/p/license.html
+WavePlayer.java : by Macteki,MIT license, http://java.macteki.com/p/license.html <br>
 <br>
 epic_loop.wav : Orchestral Adventure by RevampedPRO, CC BY 3.0 license <br>
                 http://opengameart.org/content/orchestral-adventure <br>
