@@ -1,3 +1,3 @@
 # WavePlayer
-A simple player for the wave file format.
-Please read LICENSE.md
+A simple wave file player. 
+Please also read LICENSE.md
